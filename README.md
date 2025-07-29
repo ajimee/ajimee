@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajimee
 - 👀 I’m interested in ... Web development
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Django
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I like anime!
 
